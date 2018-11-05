@@ -1,0 +1,7 @@
+cloud:
+  aws:
+    credentials:
+      accessKey: ASDFGHJKL2QWERTYU
+      secretKey: qwert6yuio8p6ashutyi3YjkL
+    region:
+      static: ap-south-1
