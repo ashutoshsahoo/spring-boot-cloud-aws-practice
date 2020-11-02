@@ -19,8 +19,9 @@ import com.amazonaws.services.s3.transfer.TransferManager;
 import com.amazonaws.services.s3.transfer.TransferManagerBuilder;
 
 import lombok.extern.slf4j.Slf4j;
+import org.springframework.stereotype.Component;
 
-//@Component
+@Component
 @Slf4j
 public class S3CLR implements CommandLineRunner {
 

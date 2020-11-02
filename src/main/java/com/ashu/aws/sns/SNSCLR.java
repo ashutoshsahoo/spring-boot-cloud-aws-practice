@@ -8,7 +8,7 @@ import com.amazonaws.services.sns.AmazonSNS;
 
 import lombok.extern.slf4j.Slf4j;
 
-@Component
+//@Component
 @Slf4j
 public class SNSCLR implements CommandLineRunner {
 
